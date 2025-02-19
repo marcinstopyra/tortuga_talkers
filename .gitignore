@@ -1,1 +1,7 @@
 .venv/
+local_data/
+config.yml
+__pycache__/
+**/__pycache__/
+.env
+__init__.py
